@@ -1,4 +1,78 @@
 {
   "updated": "2026-11-19",
-  "albums": []
+  "albums": [
+    {
+      "id": "2026-shuilu",
+      "title": "2026 水陸法會第一期　六樓行堂",
+      "date": "2026-11-17",
+      "folder_id": "1OIlkyd0jcJ2iAoBXtL47zkUx9RPJMaLM",
+      "folder_path": "龍德分會/相片集/2026水陸法會",
+      "cover": "assets/img/gallery/2026-shuilu/01.jpg",
+      "images": [
+        {
+          "no": "01",
+          "title": "桌面鋪塑膠布，兩位師姐逐位擺放白色瓷碗",
+          "src": "assets/img/gallery/2026-shuilu/01.jpg",
+          "drive_id": "1jPGV6AZYJMQK0ctzObM83H6pNjEv15xm",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂.jpg",
+          "modified": "2026-11-18T22:11:42.082Z",
+          "drive_link": "https://drive.google.com/file/d/1jPGV6AZYJMQK0ctzObM83H6pNjEv15xm/view?usp=drivesdk"
+        },
+        {
+          "no": "02",
+          "title": "四位行堂義工於齋堂走道合影",
+          "src": "assets/img/gallery/2026-shuilu/02.jpg",
+          "drive_id": "1CToH5IUG3bDnOn8_uH5O4O8zvdlkLmdA",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂_02.jpg",
+          "modified": "2026-11-18T22:12:33.283Z",
+          "drive_link": "https://drive.google.com/file/d/1CToH5IUG3bDnOn8_uH5O4O8zvdlkLmdA/view?usp=drivesdk"
+        },
+        {
+          "no": "03",
+          "title": "相鄰兩桌同步擺碗，牆面為「茶」字書法",
+          "src": "assets/img/gallery/2026-shuilu/03.jpg",
+          "drive_id": "1uyDGvxwtS1JyDjUW3ABftmhJcCu8qwG0",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂_03.jpg",
+          "modified": "2026-11-18T22:12:35.834Z",
+          "drive_link": "https://drive.google.com/file/d/1uyDGvxwtS1JyDjUW3ABftmhJcCu8qwG0/view?usp=drivesdk"
+        },
+        {
+          "no": "04",
+          "title": "前場持碗清點，後方義工推紙箱補充器皿",
+          "src": "assets/img/gallery/2026-shuilu/04.jpg",
+          "drive_id": "1dH3N8NCMD33R9b2wddiInhdBTlkVGjsn",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂_04.jpg",
+          "modified": "2026-11-18T22:12:38.330Z",
+          "drive_link": "https://drive.google.com/file/d/1dH3N8NCMD33R9b2wddiInhdBTlkVGjsn/view?usp=drivesdk"
+        },
+        {
+          "no": "05",
+          "title": "師姐手持瓷碗沿走道遞送",
+          "src": "assets/img/gallery/2026-shuilu/05.jpg",
+          "drive_id": "1_QgJxw9KqRv_PwVAyfV1wVnKMYda9vST",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂_05.jpg",
+          "modified": "2026-11-18T22:12:40.875Z",
+          "drive_link": "https://drive.google.com/file/d/1_QgJxw9KqRv_PwVAyfV1wVnKMYda9vST/view?usp=drivesdk"
+        },
+        {
+          "no": "06",
+          "title": "側門出入口搬運紙箱與補碗",
+          "src": "assets/img/gallery/2026-shuilu/06.jpg",
+          "drive_id": "1VFyE4hOK0eYlmXqH1SfJWp6mjdR6l5Xr",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂_06.jpg",
+          "modified": "2026-11-18T22:12:43.508Z",
+          "drive_link": "https://drive.google.com/file/d/1VFyE4hOK0eYlmXqH1SfJWp6mjdR6l5Xr/view?usp=drivesdk"
+        },
+        {
+          "no": "07",
+          "title": "同場景另一角度合影",
+          "src": "assets/img/gallery/2026-shuilu/07.jpg",
+          "drive_id": "1ueELzB6r-tsPUUqxIanMiHTm4znJ_4HY",
+          "drive_name": "20261117_水陸法會第一期_6樓行堂_07.jpg",
+          "modified": "2026-11-18T22:12:45.844Z",
+          "drive_link": "https://drive.google.com/file/d/1ueELzB6r-tsPUUqxIanMiHTm4znJ_4HY/view?usp=drivesdk"
+        }
+      ]
+    }
+  ]
 }
