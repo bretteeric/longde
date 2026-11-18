@@ -103,6 +103,10 @@ function renderHome() {
       const pct = ((laba.progress.current / laba.progress.target) * 100).toFixed(1);
       rows.push('<div class="mini-row"><span class="k">臘八粥已認領 · ' + pct + '%</span><span class="v">' + Number(laba.progress.current).toLocaleString() + "<small>／" + Number(laba.progress.target).toLocaleString() + " 碗</small></span></div>");
     }
+    const forest = ACTS.find((a) => a.id === "forest-2026");
+    if (forest && forest.progress) {
+      rows.push('<div class="mini-row"><span class="k">森林復育已認養</span><span class="v">' + forest.progress.current + "<small>位／" + forest.progress.target + " 個名額</small></span></div>");
+    }
     const gd = ACTS.find((a) => a.id === "guangmingdeng-2027");
     if (gd && gd.progress) rows.push('<div class="mini-row"><span class="k">光明燈尚可認供</span><span class="v">' + (gd.progress.target - gd.progress.current) + "<small>盞</small></span></div>");
     rows.push('<div class="mini-row"><span class="k">資料更新</span><span class="v" style="font-size:15px">' + esc(SITE.updated || "") + "</span></div>");
